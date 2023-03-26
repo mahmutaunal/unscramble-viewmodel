@@ -25,6 +25,17 @@ Getting Started
 
 1. Download and run the app.
 
+
+Screenshots
+---------------
+[<img src="/screenshots/Screenshot_20230326_175213.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/screenshots/Screenshot_20230326_175213.png)
+[<img src="/screenshots/Screenshot_20230326_175255.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/screenshots/Screenshot_20230326_175255.png)
+    
+
 License
 -------
 
